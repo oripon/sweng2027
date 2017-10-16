@@ -4,6 +4,8 @@
 
 int main()
 {
+	int a;
+
 	foo1();
 	foo2();
 }
