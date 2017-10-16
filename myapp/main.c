@@ -5,6 +5,7 @@
 int main()
 {
 	int a;
+	int b;
 
 	foo1();
 	foo2();
