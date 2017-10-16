@@ -6,6 +6,8 @@ int main()
 {
 	int a;
 	int c;
+	int b;
+	int d;
 
 	foo1();
 	foo2();
